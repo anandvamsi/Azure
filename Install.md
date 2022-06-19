@@ -8,4 +8,6 @@ az login
 az account show
 
 #To set the subscription
+```
 az account show set -s "subscription_id"
+```
